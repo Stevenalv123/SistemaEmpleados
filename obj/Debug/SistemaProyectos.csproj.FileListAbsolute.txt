@@ -1,0 +1,10 @@
+C:\Users\steve\source\repos\SistemaProyectos\bin\Debug\SistemaProyectos.exe.config
+C:\Users\steve\source\repos\SistemaProyectos\bin\Debug\SistemaProyectos.exe
+C:\Users\steve\source\repos\SistemaProyectos\bin\Debug\SistemaProyectos.pdb
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.Form1.resources
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.Properties.Resources.resources
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.exe
+C:\Users\steve\source\repos\SistemaProyectos\obj\Debug\SistemaProyectos.pdb
